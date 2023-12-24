@@ -74,3 +74,4 @@
 [2023-12-21 03:19:37,762] [INFO] l**********@g****.com {'msg': '获得了 303MB 流量.', 'unflowtraffic': 36392927232, 'traffic': '33.89GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '33.89GB'}, 'ret': 1}
 [2023-12-22 03:19:43,718] [INFO] l**********@g****.com {'msg': '获得了 486MB 流量.', 'unflowtraffic': 36902535168, 'traffic': '34.37GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '34.36GB'}, 'ret': 1}
 [2023-12-23 03:19:24,161] [INFO] l**********@g****.com {'msg': '获得了 332MB 流量.', 'unflowtraffic': 37250662400, 'traffic': '34.69GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '34.68GB'}, 'ret': 1}
+[2023-12-24 03:19:29,325] [INFO] l**********@g****.com {'msg': '获得了 496MB 流量.', 'unflowtraffic': 37770756096, 'traffic': '35.18GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '35.17GB'}, 'ret': 1}
