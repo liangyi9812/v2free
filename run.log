@@ -76,3 +76,4 @@
 [2023-12-23 03:19:24,161] [INFO] l**********@g****.com {'msg': '获得了 332MB 流量.', 'unflowtraffic': 37250662400, 'traffic': '34.69GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '34.68GB'}, 'ret': 1}
 [2023-12-24 03:19:29,325] [INFO] l**********@g****.com {'msg': '获得了 496MB 流量.', 'unflowtraffic': 37770756096, 'traffic': '35.18GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '35.17GB'}, 'ret': 1}
 [2023-12-25 03:20:09,391] [INFO] l**********@g****.com {'msg': '获得了 454MB 流量.', 'unflowtraffic': 38246809600, 'traffic': '35.62GB', 'trafficInfo': {'todayUsedTraffic': '0B', 'lastUsedTraffic': '7.6MB', 'unUsedTraffic': '35.61GB'}, 'ret': 1}
+[2023-12-26 03:19:34,528] [INFO] l**********@g****.com {'ret': 0, 'msg': '系统无法接受您的验证结果，请完成非机器人验证。'}
